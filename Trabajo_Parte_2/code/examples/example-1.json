@@ -1,0 +1,17 @@
+{
+	"numberOfClauses": 3,
+	"numberOfLiterals": 7,
+	"literals": [
+		"x1", "x2", "x3", "x4", "x5", "x6", "x7"
+	],
+	"clauses": [
+		["x1", "x2", "x3", "x4"],
+		["x1", "x6"],
+		["x5", "x2", "x7"]
+	],
+	"signs": [
+		[0, 1, 1, 0],
+		[1, 0],
+		[0, 1, 0]
+	]
+}
